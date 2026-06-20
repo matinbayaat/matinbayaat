@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm currently studying Computer Engineering  and I'm a junior Python developer
+- 🎓 I'm currently studying Computer Engineering  and I'm a  Python developer
 - 🌱 I’m currently learning Machine learning and internet networking and linux  
 - 👯 I'm looking to collaborate on open source projects and build cool and useful projects
 - 💬 Ask me about  Python,Django,Machine Learning , or Linux 
