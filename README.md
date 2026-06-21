@@ -51,9 +51,3 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thematinbayat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
